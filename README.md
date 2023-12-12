@@ -1,5 +1,5 @@
 # JavaProjectUlearn
-=======
+
 # Итоговое задание по Java Ulearn
 
 ## Начало работы
